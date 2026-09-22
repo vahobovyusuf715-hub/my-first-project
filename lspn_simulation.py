@@ -1,7 +1,7 @@
 # LSPN - Lunar Solar Power Network
 # Simple solar energy simulation
 
-SOLAR_IRRADIANCE = 1361       # W/m², approximate solar irradiance near the Moon
+SOLAR_IRRADIANCE = 1361       # W/m², approximate sSOLAR_IRRADIANCE = 1361 near the Moon
 PANEL_AREA = 10               # m²
 PANEL_EFFICIENCY = 0.25       # 25%
 
